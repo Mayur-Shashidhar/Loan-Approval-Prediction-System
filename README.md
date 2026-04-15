@@ -15,6 +15,14 @@ This project implements an end-to-end machine learning pipeline to predict loan 
 
 ---
 
+## Dataset
+
+This project uses a dataset from Kaggle.
+
+Note: Dataset is subject to its own license (CC0 / CC BY).
+
+---
+
 ## 📂 Project Workflow (Notebook Explanation)
 
 ---
@@ -348,3 +356,9 @@ This project demonstrates a complete machine learning workflow including preproc
 * Improve class imbalance handling
 * Deploy using Streamlit
 * Add real-time prediction system
+
+---
+
+## License
+Code is licensed under Apache 2.0.
+Dataset belongs to original source and is not redistributed.
